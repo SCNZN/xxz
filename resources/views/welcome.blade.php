@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Tommaso是个胖子
+                     12345678
                 </div>
 
                 <div class="links">
